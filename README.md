@@ -21,3 +21,5 @@ There are some features such as:
 - ***Bootstrap***
 
 ***
+
+Website: https://notesproject1.netlify.app/
