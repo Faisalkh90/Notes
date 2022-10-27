@@ -1,5 +1,6 @@
 # Notes website 
-The user will be able to store notes in the browser (by using IndexedDB) and the ability to modify notes or delete them.
+***
+The user will be able to store notes in the browser and the ability to modify notes or delete them.
 There are some features such as:
 
 1-Reverse the order of the notes from last to first and vice versa.
@@ -8,21 +9,18 @@ There are some features such as:
 
 3-Confirmation message before deleting to avoid mistakes.
 
-
 ***
-### Concepts used:
-- ***JS DOM***
-- ***JS Async***
-- ***IndexedDB***
+## What I learned 
+- JavaScript (Promises, Events, IndexedDB, Interactions, DOM)
 
-### Languages used:
-- ***JavaScript***
-- ***HTML***
-- ***CSS***
 
-### Frameworks used:
-- ***Bootstrap***
+## Languages & Frameworks used:
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
-***
 
-### Website: https://notesproject1.netlify.app/
+
+
+## Website: https://notesproject1.netlify.app/
