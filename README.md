@@ -11,7 +11,11 @@ There are some features such as:
 
 ***
 ## What I learned 
-- JavaScript (Promises, Events, IndexedDB, Interactions, DOM)
+- Promises
+- Events
+- IndexedDB 
+- Interactions
+- DOM
 
 
 ## Languages & Frameworks used:
